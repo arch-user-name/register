@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "kylian0701"
+  },
+  "subdomain": "yea",
+  "record": {
+    "CNAME": "https://github.com/kylian0701/personal-site/tree/main"
+  }
+}
